@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LV1 app</string>
+    <string name="dalje">Next</string>
+    <string name="novi_student">New Student</string>
+    <string name="Registriraj">Register</string>
+    <string name="unesite_ime">Enter a name</string>
+    <string name="unesite_prezime">Enter a surname</string>
+    <string name="datum_rodenja">Birth date</string>
+    <string name="unesite_predmet">Enter the subject</string>
+    <string name="ime_profesora">Professor\'s name</string>
+    <string name="akademska_godina">Academic year</string>
+    <string name="broj_sati">Hours of lectures</string>
+    <string name="broj_sati_vjezbi">Hours of practice</string>
+
+    <string name="ime">Name</string>
+    <string name="prezime">Surname</string>
+    <string name="naziv_predmeta">Subject</string>
+    <string name="godina">Year</string>
+    <string name="sati_predavanja">Hours of lectures</string>
+    <string name="lv_sati">LV hour</string>
+
+    <string name="student">Students</string>
+</resources>
