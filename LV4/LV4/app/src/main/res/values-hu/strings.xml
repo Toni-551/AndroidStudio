@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LV4 app</string>
+    <string name="dalje">Következőe</string>
+    <string name="novi_student">Új diák</string>
+    <string name="Registriraj">Regisztráció</string>
+    <string name="unesite_ime">Adjon meg egy nevet</string>
+    <string name="unesite_prezime">Írja be vezetéknevét</string>
+    <string name="datum_rodenja">Születési dátum</string>
+    <string name="unesite_predmet">Írja be a tárgyat</string>
+    <string name="ime_profesora">A professzor neve</string>
+    <string name="akademska_godina">Tanév</string>
+    <string name="broj_sati">Előadás óra</string>
+    <string name="broj_sati_vjezbi">A gyakorlatok óraszáma</string>
+
+    <string name="ime">Név</string>
+    <string name="prezime">Vezetéknév</string>
+    <string name="naziv_predmeta">Az objektum neve</string>
+    <string name="godina">év</string>
+    <string name="sati_predavanja">Előadás óra</string>
+    <string name="lv_sati">LV órák</string>
+
+
+    <string name="student">hallgatók</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="summaryTost">Minden mezőt ki kell tölteni</string>
+    <string name="personalInfo">Személyes adatok</string>
+    <string name="studentInfo">Tanulmányi információk</string>
+    <string name="summary">Összegzés</string>
+    <string name="summaryTostImage">Nem választott ki képet</string>
+    <string name="nova_slika">Új kép</string>
+    <string name="dodaj_sliku">Kép hozzáadása</string>
+</resources>
