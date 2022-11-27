@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">LV5 app</string>
+    <string name="dalje">Dalje</string>
+    <string name="novi_student">Novi student</string>
+    <string name="Registriraj">Registriraj</string>
+    <string name="unesite_ime">Unesite ime</string>
+    <string name="unesite_prezime">Unesite Prezime</string>
+    <string name="datum_rodenja">Datum rođenja</string>
+    <string name="unesite_predmet">Unesite predmet</string>
+    <string name="ime_profesora">Ime profesora</string>
+    <string name="akademska_godina">Akademska godina</string>
+    <string name="broj_sati">Broj sati</string>
+    <string name="broj_sati_vjezbi">Broj sati vježbi</string>
+
+    <string name="ime">Ime</string>
+    <string name="prezime">Prezime</string>
+    <string name="naziv_predmeta">Naziv predmeta</string>
+    <string name="godina">Godina</string>
+    <string name="sati_predavanja">Sati predavanja</string>
+    <string name="lv_sati">LV sati</string>
+
+    <string name="student">Studenti</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="summaryTost">Nisu unesena sva polja</string>
+    <string name="personalInfo">Osobni podatci</string>
+    <string name="studentInfo">Podatci o studiranju</string>
+    <string name="summary">Sažetak</string>
+    <string name="summaryTostImage">Niste odabrali sliku</string>
+    <string name="nova_slika">Nova slika</string>
+    <string name="dodaj_sliku">Dodaj sliku</string>
+</resources>
